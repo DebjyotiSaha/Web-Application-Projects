@@ -12,4 +12,4 @@ Before accessing the files, make sure that you have these libraries in your syst
 7. Matplotlib
 8. Matplotlib.pyplot
 
-The current repository consist of 8 projects.
+The current repository consist of 10 projects.
