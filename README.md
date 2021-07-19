@@ -13,3 +13,13 @@ Before accessing the files, make sure that you have these libraries in your syst
 8. Matplotlib.pyplot
 
 The current repository consist of 10 projects.
+1. AutoML Algorithm App
+2. Bio-Informatics App
+3. DNA Nucleotide App
+4. Hepatits Mortality Predictor
+5. Iris Flower Prediction
+6. Stock Price App
+7. Analyze the Classifier Dataset
+8. Diabetes Prediction
+9. Drug Discovery
+10. Forest Fire Prediction
