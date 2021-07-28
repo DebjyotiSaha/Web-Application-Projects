@@ -23,3 +23,4 @@ The current repository consist of 10 projects.
 8. Diabetes Prediction
 9. Drug Discovery
 10. Forest Fire Prediction
+11. Stock Price Web App-2
